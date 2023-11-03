@@ -45,6 +45,11 @@
     cursor: pointer;
 }
 
+.search-icon:hover {
+    scale: 0.9;
+    opacity: 0.8;
+}
+
 .weather-image {
     margin: auto;
     margin-top: 10px;
